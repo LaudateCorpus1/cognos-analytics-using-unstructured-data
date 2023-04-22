@@ -16,7 +16,7 @@
   "dependencies": {
     "csv-writer": "^1.6.0",
     "dotenv": "^10.0.0",
-    "ibm-watson": "^6.1.2"
+    "ibm-watson": "^8.0.0"
   },
   "engines": {
     "node": "14.0.0"
